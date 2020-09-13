@@ -1,6 +1,8 @@
 # Titanic_Approach
 In this kernal Iam going to explain the famous Titanic Challenge. The challenge is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck I have tried out 2 approches, one explained in this notebook, the other approach exaplained in another notebooks with title 'Titanic_Approach-2_Part-II' &amp; 'Titanic_Approach-2_Part-II'
 
+Dataset :https://www.kaggle.com/saiharsha1234/titanic-approach1-harsha ,https://www.kaggle.com/saiharsha1234/titanic-approach2-part1 , https://www.kaggle.com/saiharsha1234/titanic-approach2-part2 . Tools used : Python Libraries used : pandas, numpy, seaborn, sklearn, Concepts : Imputation, Machine Learning Algorithms : Random Forest,Decision Tree,Logistic Regression,KNN,Support Vector Machines,Naive Bayes,Stochastic Gradient Decent
+
 ***Preprocessing steps we are going to explained on 'Titanic_Approach-1'***
 
 1)Import libraries
