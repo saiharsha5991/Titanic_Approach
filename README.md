@@ -33,11 +33,12 @@ IN THIS I FILLED THE NULL VALUES OF 'AGE' COLUMN IN TWO DIFFERENT TYPES
 
 ***comparing the scores of different models obtained using 2 methods in this notebook***
 
-  ***Model	             Method I Score	       Method II Score***
-Random Forest	            **83.21**    	           **77.99**
-Decision Tree	              83.21	                   77.99
-Support Vector Machines	    78.36	                   77.24
-Logistic Regression	        78.36	                   76.12
-Naive Bayes	                77.99	                   74.63
-Stochastic Gradient Decent	69.40	                   74.63
-KNN	                        54.48	                   69.03
+|  ***Model	               | Method I Score	   |    Method II Score*** |
+|--------------------------|-------------------|-----------------------|
+|Random Forest	            | **83.21**    	    |       **77.99**       |
+|Decision Tree	            |   83.21	          |         77.99         |
+|Support Vector Machines	  |   78.36	          |         77.24         |
+|Logistic Regression	      |   78.36	          |         76.12         |
+|Naive Bayes	              |   77.99	          |         74.63         |
+|Stochastic Gradient Decent|	  69.40	          |         74.63         |
+|KNN	                      |   54.48	          |         69.03         |
